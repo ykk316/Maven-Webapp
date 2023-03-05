@@ -9,7 +9,6 @@
   <url>http://maven.apache.org</url>
   <dependencies>
 
-<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
