@@ -8,7 +8,7 @@
   <name>flipkart_app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-
+<!-Kishore>
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
